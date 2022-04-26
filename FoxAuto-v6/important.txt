@@ -1,0 +1,6 @@
+1) Donwload python (Preferred Python 2.7.14) => https://www.python.org/downloads/release/python-2714/
+2) Run a [cmd] as an Administrator. Then Execute: 
+cd C:\Python27\Scripts & pip install requests & pip install colorama & pip install mechanize & pip install selenium & pip install imgurpython & pip install python-gyazo
+3) get Chrome Driver, how ? => https://anonymousfox.io/_@info/ChromeDriver.txt
+4) Don't mess with the script because this will ruin it completely.
+5) Some lines have been encrypted to property protection for AnonymousFox.
